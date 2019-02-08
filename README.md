@@ -1,5 +1,5 @@
 # Stanford-CS229
-Andrew Ng's Stanford CS229 course materials - http://cs229.stanford.edu/syllabus.html
+Andrew Ng's Stanford CS229 (Machine Learning) course materials - http://cs229.stanford.edu/syllabus.html
 
 I store all the course materials of Stanford CS229 for Autumn 2017, which include (i) class notes, (ii) discussion section notes, (iii) supplementary notes, (iv) problem sets (including datasets, Python starter codes), and (v) my own (non-official) solutions to problem sets. All the programming assignments are done in Python.
 
